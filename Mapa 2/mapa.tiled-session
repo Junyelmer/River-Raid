@@ -1,0 +1,505 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Mapa completo.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "Agua.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arbol lodo 1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arbol lodo 2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arbol tierra 1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arbol tierra 2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arbol tierra 3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arena 1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arena 10.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arena 11.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arena 12.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arena 13.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arena 14.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arena 15.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arena 2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arena 3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arena 4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arena 5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arena 6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arena 7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arena 8.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Arena 9.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Bandera Tierra 1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Bandera lodo 1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Bloques River Raid.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Bloques mapa.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/pc/Desktop/River Raid Remaster/Bloques River Raid 2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/pc/Desktop/River Raid Remaster/Bloques River Raid.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/pc/Desktop/River Raid Remaster/Bloques mapa.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.33
+        },
+        "Casa Lodo 1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Casa lodo 2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Casa tierra 1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Casa tierra 2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 10.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 11.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 12.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 13.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 14.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 15.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 17.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 18.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 19.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 20.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 8.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Lodo 9.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Mapa completo.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 261.25,
+                "y": 9502
+            }
+        },
+        "Mapas.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Poste energia electrica lodo 1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.25
+        },
+        "Poste energia electrica tierra 1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 10.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 11.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 12.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 13.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 14.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 15.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 17.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 18.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 19.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 20.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 8.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra 9.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra Mojada 1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra mojada 10.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra mojada 11.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra mojada 12.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra mojada 13.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra mojada 14.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra mojada 15.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra mojada 2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra mojada 3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra mojada 4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra mojada 5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra mojada 6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra mojada 7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra mojada 8.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tierra mojada 9.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "frame.defaultDuration": 100,
+    "last.externalTilesetPath": "C:/Users/pc/Desktop/River Raid Remaster/Mapa",
+    "last.imagePath": "C:/Users/pc/Desktop/River Raid Remaster/mapa 2",
+    "map.height": 625,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "Agua.tsx",
+        "Arena 1.tsx",
+        "Arena 2.tsx",
+        "Arena 3.tsx",
+        "Arena 4.tsx",
+        "Arena 5.tsx",
+        "Arena 6.tsx",
+        "Arena 7.tsx",
+        "Arena 8.tsx",
+        "Arena 9.tsx",
+        "Arena 10.tsx",
+        "Arena 11.tsx",
+        "Arena 12.tsx",
+        "Arena 13.tsx",
+        "Arena 14.tsx",
+        "Arena 15.tsx",
+        "Lodo 1.tsx",
+        "Lodo 2.tsx",
+        "Lodo 3.tsx",
+        "Lodo 4.tsx",
+        "Lodo 5.tsx",
+        "Lodo 6.tsx",
+        "Lodo 7.tsx",
+        "Lodo 8.tsx",
+        "Lodo 9.tsx",
+        "Lodo 10.tsx",
+        "Lodo 11.tsx",
+        "Lodo 12.tsx",
+        "Lodo 13.tsx",
+        "Lodo 14.tsx",
+        "Lodo 15.tsx",
+        "Lodo 16.tsx",
+        "Lodo 17.tsx",
+        "Lodo 18.tsx",
+        "Lodo 19.tsx",
+        "Lodo 20.tsx",
+        "Tierra 1.tsx",
+        "Tierra 2.tsx",
+        "Tierra 3.tsx",
+        "Tierra 4.tsx",
+        "Tierra 5.tsx",
+        "Tierra 6.tsx",
+        "Tierra 7.tsx",
+        "Tierra 8.tsx",
+        "Tierra 9.tsx",
+        "Tierra 10.tsx",
+        "Tierra 11.tsx",
+        "Tierra 12.tsx",
+        "Tierra 13.tsx",
+        "Tierra 14.tsx",
+        "Tierra 15.tsx",
+        "Tierra 16.tsx",
+        "Tierra 17.tsx",
+        "Tierra 18.tsx",
+        "Tierra 19.tsx",
+        "Tierra 20.tsx",
+        "Tierra Mojada 1.tsx",
+        "Tierra mojada 2.tsx",
+        "Tierra mojada 3.tsx",
+        "Tierra mojada 4.tsx",
+        "Tierra mojada 5.tsx",
+        "Tierra mojada 6.tsx",
+        "Tierra mojada 7.tsx",
+        "Tierra mojada 8.tsx",
+        "Tierra mojada 9.tsx",
+        "Tierra mojada 10.tsx",
+        "Tierra mojada 11.tsx",
+        "Tierra mojada 12.tsx",
+        "Tierra mojada 13.tsx",
+        "Tierra mojada 14.tsx",
+        "Tierra mojada 15.tsx",
+        "Arbol lodo 1.tsx",
+        "Arbol lodo 2.tsx",
+        "Arbol tierra 1.tsx",
+        "Arbol tierra 2.tsx",
+        "Arbol tierra 3.tsx",
+        "Bandera lodo 1.tsx",
+        "Bandera Tierra 1.tsx",
+        "Casa Lodo 1.tsx",
+        "Casa lodo 2.tsx",
+        "Casa tierra 1.tsx",
+        "Casa tierra 2.tsx",
+        "Poste energia electrica lodo 1.tsx",
+        "Mapa completo.tmx"
+    ],
+    "project": "mapa.tiled-project",
+    "recentFiles": [
+        "Agua.tsx",
+        "Arena 1.tsx",
+        "Arena 2.tsx",
+        "Arena 3.tsx",
+        "Arena 4.tsx",
+        "Arena 5.tsx",
+        "Arena 6.tsx",
+        "Arena 7.tsx",
+        "Arena 8.tsx",
+        "Arena 9.tsx",
+        "Arena 10.tsx",
+        "Arena 11.tsx"
+    ],
+    "tileset.lastUsedFilter": "Todos los archivos (*)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 236,
+        "width": 406
+    },
+    "tileset.type": 0
+}
